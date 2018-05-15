@@ -1678,7 +1678,7 @@ body {
   color: #cccccc !important;
 }
 .cid-qRomCgNIjT {
-  background-image: url("../../../assets/images/mbr-1618x1080.jpg");
+  background-image: url("../../../assets/images/mbr-1618x108011.jpg");
 }
 .cid-qRomCgNIjT H1 {
   color: #accb54;
@@ -1694,18 +1694,18 @@ body {
 .cid-qRomCgNIjT .mbr-section-btn B {
   color: #efefef;
 }
-.cid-qRp3zIGw2f {
+.cid-qS9tXSosBs {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/iotega-training-banner-812x1921.png");
+  background-image: url("../../../assets/images/iotega-training-banner-812x192.png");
 }
-.cid-qRp3zIGw2f H2 {
+.cid-qS9tXSosBs H2 {
   color: #6fba37;
 }
-.cid-qRp3zIGw2f .mbr-section-subtitle {
+.cid-qS9tXSosBs .mbr-section-subtitle {
   color: #55b4d4;
 }
-.cid-qRp3zIGw2f .mbr-section-subtitle B {
+.cid-qS9tXSosBs .mbr-section-subtitle B {
   color: #b2ccd2;
 }
 .cid-qRp6r24OTx {
@@ -1730,7 +1730,7 @@ body {
 }
 .cid-qRp9pITssU {
   padding-top: 135px;
-  padding-bottom: 60px;
+  padding-bottom: 135px;
   background-color: #efefef;
 }
 .cid-qRp9pITssU .mbr-section-subtitle {
@@ -1815,43 +1815,43 @@ body {
 .cid-qRp9pITssU .mbr-section-title {
   color: #accb54;
 }
-.cid-qRYSjW78dJ {
+.cid-qS9CeY6i4V {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background-color: #000000;
 }
 @media (max-width: 767px) {
-  .cid-qRYSjW78dJ .content {
+  .cid-qS9CeY6i4V .content {
     text-align: center;
   }
-  .cid-qRYSjW78dJ .content > div:not(:last-child) {
+  .cid-qS9CeY6i4V .content > div:not(:last-child) {
     margin-bottom: 2rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-qRYSjW78dJ .media-wrap {
+  .cid-qS9CeY6i4V .media-wrap {
     margin-bottom: 1rem;
   }
 }
-.cid-qRYSjW78dJ .media-wrap .mbr-iconfont-logo {
+.cid-qS9CeY6i4V .media-wrap .mbr-iconfont-logo {
   font-size: 7.5rem;
   color: #f36;
 }
-.cid-qRYSjW78dJ .media-wrap img {
+.cid-qS9CeY6i4V .media-wrap img {
   height: 6rem;
 }
 @media (max-width: 767px) {
-  .cid-qRYSjW78dJ .footer-lower .copyright {
+  .cid-qS9CeY6i4V .footer-lower .copyright {
     margin-bottom: 1rem;
     text-align: center;
   }
 }
-.cid-qRYSjW78dJ .footer-lower hr {
+.cid-qS9CeY6i4V .footer-lower hr {
   margin: 1rem 0;
   border-color: #fff;
   opacity: .05;
 }
-.cid-qRYSjW78dJ .footer-lower .social-list {
+.cid-qS9CeY6i4V .footer-lower .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -1860,27 +1860,54 @@ body {
   justify-content: flex-end;
   -webkit-justify-content: flex-end;
 }
-.cid-qRYSjW78dJ .footer-lower .social-list .mbr-iconfont-social {
+.cid-qS9CeY6i4V .footer-lower .social-list .mbr-iconfont-social {
   font-size: 1.3rem;
   color: #fff;
 }
-.cid-qRYSjW78dJ .footer-lower .social-list .soc-item {
+.cid-qS9CeY6i4V .footer-lower .social-list .soc-item {
   margin: 0 .5rem;
 }
-.cid-qRYSjW78dJ .footer-lower .social-list a {
+.cid-qS9CeY6i4V .footer-lower .social-list a {
   margin: 0;
   opacity: .5;
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
-.cid-qRYSjW78dJ .footer-lower .social-list a:hover {
+.cid-qS9CeY6i4V .footer-lower .social-list a:hover {
   opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-qRYSjW78dJ .footer-lower .social-list {
+  .cid-qS9CeY6i4V .footer-lower .social-list {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-qS9CfXWz18 {
+  padding-top: 0px;
+  padding-bottom: 90px;
+  background-color: #000000;
+}
+.cid-qS9CfXWz18 .mbr-text {
+  color: #767676;
+}
+.cid-qS9CfXWz18 h4 {
+  text-align: center;
+}
+.cid-qS9CfXWz18 p {
+  text-align: center;
+}
+.cid-qS9CfXWz18 .card-img span {
+  font-size: 96px;
+  color: #149dcc;
+}
+.cid-qS9CfXWz18 .card-title,
+.cid-qS9CfXWz18 .card-img {
+  color: #cccccc;
+}
+.cid-qS9CgLt6xL {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
 }
 .cid-qRtHoUXeqO {
   padding-top: 135px;
@@ -2317,7 +2344,7 @@ body {
 .cid-qRphm6GOVz {
   padding-top: 120px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/automation-1-720x5402.jpg");
+  background-image: url("../../../assets/images/automation-1-720x540213.jpg");
 }
 .cid-qRphm6GOVz h3 {
   font-weight: 300;
@@ -2340,7 +2367,7 @@ body {
 }
 .cid-qRphm6GOVz .mbr-section-subtitle {
   color: #ffffff;
-  text-align: left;
+  text-align: center;
 }
 .cid-qRphm6GOVz .mbr-text {
   color: #767676;
@@ -2360,7 +2387,7 @@ body {
 .cid-qRYRewvOsE {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/iotega-training-banner-812x192.png");
+  background-image: url("../../../assets/images/iotega-training-banner-812x19214.png");
 }
 .cid-qRYRewvOsE H2 {
   color: #6fba37;
@@ -2371,43 +2398,43 @@ body {
 .cid-qRYRewvOsE .mbr-section-subtitle B {
   color: #b2ccd2;
 }
-.cid-qRYREDlOCD {
+.cid-qS9C7EOqZT {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background-color: #000000;
 }
 @media (max-width: 767px) {
-  .cid-qRYREDlOCD .content {
+  .cid-qS9C7EOqZT .content {
     text-align: center;
   }
-  .cid-qRYREDlOCD .content > div:not(:last-child) {
+  .cid-qS9C7EOqZT .content > div:not(:last-child) {
     margin-bottom: 2rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-qRYREDlOCD .media-wrap {
+  .cid-qS9C7EOqZT .media-wrap {
     margin-bottom: 1rem;
   }
 }
-.cid-qRYREDlOCD .media-wrap .mbr-iconfont-logo {
+.cid-qS9C7EOqZT .media-wrap .mbr-iconfont-logo {
   font-size: 7.5rem;
   color: #f36;
 }
-.cid-qRYREDlOCD .media-wrap img {
+.cid-qS9C7EOqZT .media-wrap img {
   height: 6rem;
 }
 @media (max-width: 767px) {
-  .cid-qRYREDlOCD .footer-lower .copyright {
+  .cid-qS9C7EOqZT .footer-lower .copyright {
     margin-bottom: 1rem;
     text-align: center;
   }
 }
-.cid-qRYREDlOCD .footer-lower hr {
+.cid-qS9C7EOqZT .footer-lower hr {
   margin: 1rem 0;
   border-color: #fff;
   opacity: .05;
 }
-.cid-qRYREDlOCD .footer-lower .social-list {
+.cid-qS9C7EOqZT .footer-lower .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -2416,27 +2443,54 @@ body {
   justify-content: flex-end;
   -webkit-justify-content: flex-end;
 }
-.cid-qRYREDlOCD .footer-lower .social-list .mbr-iconfont-social {
+.cid-qS9C7EOqZT .footer-lower .social-list .mbr-iconfont-social {
   font-size: 1.3rem;
   color: #fff;
 }
-.cid-qRYREDlOCD .footer-lower .social-list .soc-item {
+.cid-qS9C7EOqZT .footer-lower .social-list .soc-item {
   margin: 0 .5rem;
 }
-.cid-qRYREDlOCD .footer-lower .social-list a {
+.cid-qS9C7EOqZT .footer-lower .social-list a {
   margin: 0;
   opacity: .5;
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
-.cid-qRYREDlOCD .footer-lower .social-list a:hover {
+.cid-qS9C7EOqZT .footer-lower .social-list a:hover {
   opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-qRYREDlOCD .footer-lower .social-list {
+  .cid-qS9C7EOqZT .footer-lower .social-list {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-qS9C7681hE {
+  padding-top: 0px;
+  padding-bottom: 90px;
+  background-color: #000000;
+}
+.cid-qS9C7681hE .mbr-text {
+  color: #767676;
+}
+.cid-qS9C7681hE h4 {
+  text-align: center;
+}
+.cid-qS9C7681hE p {
+  text-align: center;
+}
+.cid-qS9C7681hE .card-img span {
+  font-size: 96px;
+  color: #149dcc;
+}
+.cid-qS9C7681hE .card-title,
+.cid-qS9C7681hE .card-img {
+  color: #cccccc;
+}
+.cid-qS9C8iS2AV {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
 }
 .cid-qRtMnmo8GN {
   padding-top: 120px;
@@ -2740,7 +2794,7 @@ body {
   background: transparent !important;
 }
 .cid-qRZF2KiCRq .image_wrapper {
-  height: 400px;
+  height: 500px;
   width: 100%;
   position: relative;
   display: inline-block;
@@ -2753,7 +2807,7 @@ body {
   text-align: center;
 }
 .cid-qRZF2KiCRq .content-slider-wrap {
-  width: 60%;
+  width: 88%;
 }
 .cid-qRtPtvKQtP {
   padding-top: 45px;
@@ -2848,57 +2902,57 @@ body {
 .cid-qRtPtvKQtP P {
   color: #232323;
 }
-.cid-qRZErbLIvD {
+.cid-qS9u86skjH {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/iotega-training-banner-812x19210.png");
+  background-image: url("../../../assets/images/iotega-training-banner-812x1921.png");
 }
-.cid-qRZErbLIvD H2 {
+.cid-qS9u86skjH H2 {
   color: #6fba37;
 }
-.cid-qRZErbLIvD .mbr-section-subtitle {
+.cid-qS9u86skjH .mbr-section-subtitle {
   color: #55b4d4;
 }
-.cid-qRZErbLIvD .mbr-section-subtitle B {
+.cid-qS9u86skjH .mbr-section-subtitle B {
   color: #b2ccd2;
 }
-.cid-qRZEpJs35R {
+.cid-qS9B9P4eNc {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background-color: #000000;
 }
 @media (max-width: 767px) {
-  .cid-qRZEpJs35R .content {
+  .cid-qS9B9P4eNc .content {
     text-align: center;
   }
-  .cid-qRZEpJs35R .content > div:not(:last-child) {
+  .cid-qS9B9P4eNc .content > div:not(:last-child) {
     margin-bottom: 2rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-qRZEpJs35R .media-wrap {
+  .cid-qS9B9P4eNc .media-wrap {
     margin-bottom: 1rem;
   }
 }
-.cid-qRZEpJs35R .media-wrap .mbr-iconfont-logo {
+.cid-qS9B9P4eNc .media-wrap .mbr-iconfont-logo {
   font-size: 7.5rem;
   color: #f36;
 }
-.cid-qRZEpJs35R .media-wrap img {
+.cid-qS9B9P4eNc .media-wrap img {
   height: 6rem;
 }
 @media (max-width: 767px) {
-  .cid-qRZEpJs35R .footer-lower .copyright {
+  .cid-qS9B9P4eNc .footer-lower .copyright {
     margin-bottom: 1rem;
     text-align: center;
   }
 }
-.cid-qRZEpJs35R .footer-lower hr {
+.cid-qS9B9P4eNc .footer-lower hr {
   margin: 1rem 0;
   border-color: #fff;
   opacity: .05;
 }
-.cid-qRZEpJs35R .footer-lower .social-list {
+.cid-qS9B9P4eNc .footer-lower .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -2907,27 +2961,54 @@ body {
   justify-content: flex-end;
   -webkit-justify-content: flex-end;
 }
-.cid-qRZEpJs35R .footer-lower .social-list .mbr-iconfont-social {
+.cid-qS9B9P4eNc .footer-lower .social-list .mbr-iconfont-social {
   font-size: 1.3rem;
   color: #fff;
 }
-.cid-qRZEpJs35R .footer-lower .social-list .soc-item {
+.cid-qS9B9P4eNc .footer-lower .social-list .soc-item {
   margin: 0 .5rem;
 }
-.cid-qRZEpJs35R .footer-lower .social-list a {
+.cid-qS9B9P4eNc .footer-lower .social-list a {
   margin: 0;
   opacity: .5;
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
-.cid-qRZEpJs35R .footer-lower .social-list a:hover {
+.cid-qS9B9P4eNc .footer-lower .social-list a:hover {
   opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-qRZEpJs35R .footer-lower .social-list {
+  .cid-qS9B9P4eNc .footer-lower .social-list {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-qS9BalDNY7 {
+  padding-top: 0px;
+  padding-bottom: 90px;
+  background-color: #000000;
+}
+.cid-qS9BalDNY7 .mbr-text {
+  color: #767676;
+}
+.cid-qS9BalDNY7 h4 {
+  text-align: center;
+}
+.cid-qS9BalDNY7 p {
+  text-align: center;
+}
+.cid-qS9BalDNY7 .card-img span {
+  font-size: 96px;
+  color: #149dcc;
+}
+.cid-qS9BalDNY7 .card-title,
+.cid-qS9BalDNY7 .card-img {
+  color: #cccccc;
+}
+.cid-qS9BaXfVg8 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
 }
 .cid-qRtMnlDnn7 .navbar {
   padding: .5rem 0;
@@ -3710,7 +3791,7 @@ body {
 .cid-qRuEg8dT8H {
   padding-top: 120px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/iotega-content-img-755x5223.png");
+  background-image: url("../../../assets/images/iotega-content-img-755x522316.png");
 }
 .cid-qRuEg8dT8H h3 {
   font-weight: 300;
@@ -3755,7 +3836,7 @@ body {
 .cid-qRuEg9Da38 {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/iotega-training-banner-812x1921.png");
+  background-image: url("../../../assets/images/iotega-training-banner-812x192112.png");
 }
 .cid-qRuEg9Da38 H2 {
   color: #149dcc;
@@ -3818,7 +3899,7 @@ body {
   color: #767676;
 }
 .cid-qRv8B992J5 {
-  background-image: url("../../../assets/images/dna-1-1577x8484.jpg");
+  background-image: url("../../../assets/images/dna-1-1577x848417.jpg");
 }
 .cid-qRv8B992J5 .mbr-figure {
   margin: 0 auto;
@@ -4317,7 +4398,7 @@ body {
 .cid-qRvRbe7cRQ {
   padding-top: 120px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/iotega-content-img-755x5223.png");
+  background-image: url("../../../assets/images/iotega-content-img-755x522316.png");
 }
 .cid-qRvRbe7cRQ h3 {
   font-weight: 300;
@@ -4362,7 +4443,7 @@ body {
 .cid-qRvRbfP6zd {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/iotega-training-banner-812x1921.png");
+  background-image: url("../../../assets/images/iotega-training-banner-812x192112.png");
 }
 .cid-qRvRbfP6zd H2 {
   color: #149dcc;
@@ -4425,7 +4506,7 @@ body {
   color: #767676;
 }
 .cid-qRvRbjEtYi {
-  background-image: url("../../../assets/images/dna-1-1577x8484.jpg");
+  background-image: url("../../../assets/images/dna-1-1577x848417.jpg");
 }
 .cid-qRvRbjEtYi .mbr-figure {
   margin: 0 auto;
@@ -5036,13 +5117,12 @@ body {
   }
 }
 .cid-qRvyc8bjNN {
-  padding-top: 60px;
-  padding-bottom: 60px;
   background: #accb54;
   background: linear-gradient(0deg, #000000, #accb54);
 }
 .cid-qRvyc8bjNN .image-block {
   margin: auto;
+  width: 100% !important;
 }
 .cid-qRvyc8bjNN figcaption {
   position: relative;
@@ -5140,7 +5220,7 @@ body {
 }
 .cid-qS0lqmvcom {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background-color: #000000;
 }
 @media (max-width: 767px) {
@@ -5204,6 +5284,33 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-qS9uPFiKam {
+  padding-top: 0px;
+  padding-bottom: 90px;
+  background-color: #000000;
+}
+.cid-qS9uPFiKam .mbr-text {
+  color: #767676;
+}
+.cid-qS9uPFiKam h4 {
+  text-align: center;
+}
+.cid-qS9uPFiKam p {
+  text-align: center;
+}
+.cid-qS9uPFiKam .card-img span {
+  font-size: 96px;
+  color: #149dcc;
+}
+.cid-qS9uPFiKam .card-title,
+.cid-qS9uPFiKam .card-img {
+  color: #cccccc;
+}
+.cid-qS9v0iFkUl {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
 }
 .cid-qRtJR9VXqO .navbar {
   padding: .5rem 0;
@@ -6159,7 +6266,7 @@ body {
 .cid-qRvRkeHQeY {
   padding-top: 120px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/iotega-content-img-755x5223.png");
+  background-image: url("../../../assets/images/iotega-content-img-755x522316.png");
 }
 .cid-qRvRkeHQeY h3 {
   font-weight: 300;
@@ -6204,7 +6311,7 @@ body {
 .cid-qRvRkgjlne {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/iotega-training-banner-812x1921.png");
+  background-image: url("../../../assets/images/iotega-training-banner-812x192112.png");
 }
 .cid-qRvRkgjlne H2 {
   color: #149dcc;
@@ -6267,7 +6374,7 @@ body {
   color: #767676;
 }
 .cid-qRvRkjO7aS {
-  background-image: url("../../../assets/images/dna-1-1577x8484.jpg");
+  background-image: url("../../../assets/images/dna-1-1577x848417.jpg");
 }
 .cid-qRvRkjO7aS .mbr-figure {
   margin: 0 auto;
@@ -6764,7 +6871,7 @@ body {
   color: #cccccc !important;
 }
 .cid-qRwdWJVtUD {
-  background-image: url("../../../assets/images/mbr-1-1620x10805.jpg");
+  background-image: url("../../../assets/images/mbr-1-1620x1080518.jpg");
 }
 .cid-qRwdWJVtUD H1 {
   color: #accb54;
@@ -6800,57 +6907,57 @@ body {
     text-align: center;
   }
 }
-.cid-qS0fV5ZrL2 {
+.cid-qS9CoW84U3 {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/iotega-training-banner-812x19210.png");
+  background-image: url("../../../assets/images/iotega-training-banner-812x1921.png");
 }
-.cid-qS0fV5ZrL2 H2 {
+.cid-qS9CoW84U3 H2 {
   color: #6fba37;
 }
-.cid-qS0fV5ZrL2 .mbr-section-subtitle {
+.cid-qS9CoW84U3 .mbr-section-subtitle {
   color: #55b4d4;
 }
-.cid-qS0fV5ZrL2 .mbr-section-subtitle B {
+.cid-qS9CoW84U3 .mbr-section-subtitle B {
   color: #b2ccd2;
 }
-.cid-qS0fTvKeh5 {
+.cid-qS9CpBss0I {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background-color: #000000;
 }
 @media (max-width: 767px) {
-  .cid-qS0fTvKeh5 .content {
+  .cid-qS9CpBss0I .content {
     text-align: center;
   }
-  .cid-qS0fTvKeh5 .content > div:not(:last-child) {
+  .cid-qS9CpBss0I .content > div:not(:last-child) {
     margin-bottom: 2rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-qS0fTvKeh5 .media-wrap {
+  .cid-qS9CpBss0I .media-wrap {
     margin-bottom: 1rem;
   }
 }
-.cid-qS0fTvKeh5 .media-wrap .mbr-iconfont-logo {
+.cid-qS9CpBss0I .media-wrap .mbr-iconfont-logo {
   font-size: 7.5rem;
   color: #f36;
 }
-.cid-qS0fTvKeh5 .media-wrap img {
+.cid-qS9CpBss0I .media-wrap img {
   height: 6rem;
 }
 @media (max-width: 767px) {
-  .cid-qS0fTvKeh5 .footer-lower .copyright {
+  .cid-qS9CpBss0I .footer-lower .copyright {
     margin-bottom: 1rem;
     text-align: center;
   }
 }
-.cid-qS0fTvKeh5 .footer-lower hr {
+.cid-qS9CpBss0I .footer-lower hr {
   margin: 1rem 0;
   border-color: #fff;
   opacity: .05;
 }
-.cid-qS0fTvKeh5 .footer-lower .social-list {
+.cid-qS9CpBss0I .footer-lower .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -6859,25 +6966,52 @@ body {
   justify-content: flex-end;
   -webkit-justify-content: flex-end;
 }
-.cid-qS0fTvKeh5 .footer-lower .social-list .mbr-iconfont-social {
+.cid-qS9CpBss0I .footer-lower .social-list .mbr-iconfont-social {
   font-size: 1.3rem;
   color: #fff;
 }
-.cid-qS0fTvKeh5 .footer-lower .social-list .soc-item {
+.cid-qS9CpBss0I .footer-lower .social-list .soc-item {
   margin: 0 .5rem;
 }
-.cid-qS0fTvKeh5 .footer-lower .social-list a {
+.cid-qS9CpBss0I .footer-lower .social-list a {
   margin: 0;
   opacity: .5;
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
-.cid-qS0fTvKeh5 .footer-lower .social-list a:hover {
+.cid-qS9CpBss0I .footer-lower .social-list a:hover {
   opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-qS0fTvKeh5 .footer-lower .social-list {
+  .cid-qS9CpBss0I .footer-lower .social-list {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-qS9Cq68PLv {
+  padding-top: 0px;
+  padding-bottom: 90px;
+  background-color: #000000;
+}
+.cid-qS9Cq68PLv .mbr-text {
+  color: #767676;
+}
+.cid-qS9Cq68PLv h4 {
+  text-align: center;
+}
+.cid-qS9Cq68PLv p {
+  text-align: center;
+}
+.cid-qS9Cq68PLv .card-img span {
+  font-size: 96px;
+  color: #149dcc;
+}
+.cid-qS9Cq68PLv .card-title,
+.cid-qS9Cq68PLv .card-img {
+  color: #cccccc;
+}
+.cid-qS9CqFPhMC {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
 }
